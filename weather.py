@@ -1,8 +1,8 @@
 #! python3
 # weather.py - Get the current weather info (at Sun Peaks) via OpenWeather API
-# Last update: 20230729
+# Last update: 20230730
 # Author: Andre Cheung
-# Organizaton: RoboticsCats.com
+# Organizaton: RoboticsCats
 import re, requests
 
 # global constants
